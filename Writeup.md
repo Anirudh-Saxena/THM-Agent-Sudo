@@ -38,7 +38,8 @@ THe command that we will be using is:
 
           curl -A "alphabets" -L <targetip>
 
-![Screenshot_2023-08-14_03_06_37](https://github.com/Anirudh-Saxena/THM-Agent-Sudo/assets/73027020/1fb7f0c8-3cde-4fde-ae24-d13cee57c140)
+![Screenshot_2023-08-14_05_04_32](https://github.com/Anirudh-Saxena/THM-Agent-Sudo/assets/73027020/3c2287ee-a2af-4dcb-b0bd-2c4bd66ea9cb)
+
 
 
 Noice agent C name is `chris`
@@ -75,7 +76,9 @@ I was trying the wrong command here, after searching for a bit i found out that 
 `mget` command
 
 SO lets donwload and see what the files have hiddne for us..
-![Screenshot_2023-08-14_03_17_37](https://github.com/Anirudh-Saxena/THM-Agent-Sudo/assets/73027020/6eed1c1d-eead-47f0-9bec-49707e0ffa5d)
+
+![Screenshot_2023-08-14_05_05_09](https://github.com/Anirudh-Saxena/THM-Agent-Sudo/assets/73027020/915f7f27-aae8-4e0f-8fec-589b4390cd8a)
+
 
 NOw lets read the files first and see what it has to offer..
 
@@ -170,7 +173,8 @@ Make sure to visit the page and see how can we exlpoit this CVE and gain root ac
 After that you just have to navigate to the `/root` directory and check the file to gain the answer of the final step.
 
 
-![Screenshot_2023-08-14_04_41_22](https://github.com/Anirudh-Saxena/THM-Agent-Sudo/assets/73027020/c2d5d727-f4ce-427c-be57-06d4fabf91ac)
+![Screenshot_2023-08-14_05_06_47](https://github.com/Anirudh-Saxena/THM-Agent-Sudo/assets/73027020/c9c1f25e-a6b1-4572-b48e-9bc34adbc0e3)
+
 
 
 
